@@ -1,8 +1,14 @@
+"""
+Automatically generate README.md
+Creates category headings and links to writings.
+"""
+
 from pathlib import Path
 
 ROOT = Path(__file__).absolute().parent.parent
 
 WRITINGS = {
+    "mary": ["consciousness", "physics"],
     "teaching": ["education"],
     "time": ["physics"],
 }

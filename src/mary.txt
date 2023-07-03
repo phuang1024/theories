@@ -1,0 +1,106 @@
+July 3, 2023
+Patrick Huang
+
+If I know the state of every particle in your brain --- their position, velocity,
+and how they interact with each other ---, do I have a full understanding of
+your consciousness?
+
+There are, broadly, three types of views on consciousness.
+
+Dualism says that while the physical body follows physics, the consciousness or
+soul transcends physics, and cannot be replicated.
+
+Physicalism says that consciousness does follow physics --- your conscious
+experience is a manifestation of some physical thing.
+
+Functionalism takes physicalism further, and says that if you replicate the
+consciousness, it is the same consciousness. It doesn't even need to be an exact
+copy --- as long as the function is replicated (hence the name), like in a very
+large computer, with trillions of pieces of lego, etc., it will still be the
+same consciousness, and have the same experience.
+
+The "Knowledge Argument" is a thought experiment relating to these views.
+https://en.wikipedia.org/wiki/Knowledge_argument
+
+As Brian Greene describes in "Until the end of time", the argument is:
+There is a scientist named Mary who is color blind. She studies physics
+extensively, and at some point is able to model every process happening in the
+world (which includes in her brain). Although she is color blind, she can
+simulate through her models the exact processes happening if she were to see
+color.
+
+One day, she gains color vision for the first time (e.g. through surgery). Does
+this new experience add anything to her knowledge?
+
+As Brian Greene describes, she could be very surprised or amazed. This would
+mean that experiencing color vision did add something. Even though she already
+simulated everything that could happen, experiencing it was different.
+Or she could "shrug". This would suggest that studying the simulation alone
+would give her the same feeling as if she had actually seen color.
+
+What are my thoughts on this?
+
+First, what does "experience" seeing color mean?
+Very abstractly, seeing color would fire some neurons in your brain, somehow
+altering your brain state, creating a memory of the color.
+This sequence of neurons firing, creating a persistent change, is the
+experience.
+Mary, being color blind, did not have this sequence happen in her brain.
+
+What about seeing the simulation experience color?
+This is, again, a very abstract description. When Mary studies the simulation,
+it's like the simulation is encoded in a part of her brain. Yes, the simulation
+probably exists on a computer, but when she thinks about the simulation, some
+neurons are firing, which sort of encode the simulation into her brain.
+
+These neurons studying the simulation are different from the color sensing
+neurons in the previous paragraph.
+We can think of Mary's brain as having two groups of neurons: One of them
+responds to experiencing color. The other one is thinking about the simulation.
+
+But the simulation is about herself experiencing color. So the group of neurons
+thinking about the simulation encodes the hypothetical copy of her brain that is
+experiencing color.
+This happens while the group of neurons in the "real" Mary that respond to color
+are not firing, as Mary is color blind.
+
+If Mary can imagine a simulated brain experiencing color, does that give her the
+actual experience?
+
+From one perspective, yes. She has all the knowledge she needs. She knows
+exactly what will happen if she were to see color. It's like if you use physics
+to model a baseball: You know the conditions immediately after the batter hit it,
+which allows you to model it's trajectory almost perfectly. Through your model,
+you know where the baseball will be after 3 seconds.
+
+But is there a difference between simply knowing where the baseball will be and
+actually seeing it be there? In Mary, although she knows exactly what neurons
+fire, that never actually happened to her. It's only after she is exposed to
+color light that her "real" neurons fired for the first time. This suggests that
+the experience did add something new that her detailed simulation could not
+satisfy. Therefore, the simulation did not give her the real experience.
+
+Although she knows exactly what will happen, it is difficult to physically
+perform those actions in her "real" brain, for the simple reason that you can't
+cut open your skull and manually choose which neurons to fire.
+
+This suggests that the two perspectives are kind of like "theory" and "practice".
+In theory, she has all the information she needs to replicate the experience of
+seeing color.
+But in practice, it is near impossible to artificially stimulate the trillions
+of neurons, which is why the experience --- the pipeline of color hitting the
+retina, setting off those particular neurons perfectly --- is so special.
+
+These two perspectives can be made more clear with an analogy to daily life.
+Let's say I am going to buy a Boeing 747. I did all the research about it: I
+know exactly which buttons do what. I worked through the fluid physics, and know
+how it will behave upon encountering any configuration of air. I watched videos
+of pilots flying the plane.
+
+Is that the same as actually buying the plane?
+
+Again, the two perspectives are:
+Yes: I know everything about it, so I have all I need to build and fly my own
+Boeing 747.
+No: It is very hard to build a plane, so the only "real" way to get it is to buy
+it.
