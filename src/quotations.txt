@@ -1,0 +1,88 @@
+July 7, 2023
+Patrick Huang
+
+How should quotations be formatted?
+"Should they be like this,"
+or "like this",
+or something else?
+
+The convention for American English is to put the punctuation inside the end
+quote, "like this." According to ChatGPT, this started back in the era of
+typewriters. The end punctuation (e.g. period) is usually small in physical size.
+If placed after the quote, it had a tendency to break.
+
+But we have moved out of the typewriter era and into the computer era. As more
+humans become programmers and robots, let's reconsider this problem.
+
+First, consider two types of ways to express something.
+
+An expression is not a complete statement:
+"c++ and python"
+"the blue calculator"
+`e ** (x+2)`
+These do not require ending punctuation, both in programming languages and
+natural languages.
+
+A statement is a complete statement. In natural language, we are taught that it
+contains both a subject and a predicate.
+"c++ and python are better than java."
+"the blue calculator solves integrals 5000x faster than you."
+`solve(e ** (x+2));`
+These do require end punctuation. In programming, it is a semicolon (or nothing
+in Python). In natural language, it is a period, question mark, or factorial
+mark.
+
+When you quote something in natural language, you are making your statement
+about another statement.
+You can think of it like the f-string in Python: Inside one statement, there is
+another.
+In Python, both the string and the embedded thing are expressions, while in
+natural language, both entites can be both.
+
+End punctuation is added according to the rules previously stated.
+
+Python:
+f"my string {expression() + 1}"
+English (expr, expr):
+The blue "computer algebra system"
+English (statement, expr):
+I like the blue "computer algebra system".
+English (expr, statement):
+The quote "I hate Java."
+English (statement, statement):
+I like the quote "I hate Java.".
+
+You may be confused with the last example; why are there two periods?
+We need to end both the quote and our statement about the quote.
+Corresponding examples of C++ lambda functions can also help:
+
+C++ (expr, statement)
+1 + [](){return 1 + 2;}
+c++ (statement, statement)
+int x = 1 + [](){return 1 + 2;};
+
+Notice how we also have two semicolons in the last example.
+
+So, following these rules, here are some common English quotation formats:
+Patrick asked "What's your favorite programming language?".
+Patrick replied "Java".
+Patrick reported that "Patrick replied \"Java\".".
+
+How do we deal with nested quotations?
+The English convention is to replace " with ' in a nested quote. To a programmer,
+this is unacceptable for a few reasons:
+- Some programmers interpret ' as a char, not a string.
+- It would modify the original quote, which is not a good thing. In the above
+  examples, if we were to use ', example 3 would not report example 2 verbatim.
+- What about more nested quotes?
+
+In The Namesake by Jhumpa Lahiri, page 99 has triple nested quotes. The author
+uses ", then ', then " again. This creates a lot of confusion.
+
+The solution is to use backslash escapes. Here is a programmer's version of
+triple nested quotes.
+
+The programmer began speaking. He said "As the author of How To Avoid Java
+writes, \"As usual, the Java language \\\"always disappoints\\\".\".".
+
+Obviously, this is much easier to read than the convention.

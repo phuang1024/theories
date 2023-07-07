@@ -9,6 +9,7 @@ ROOT = Path(__file__).absolute().parent.parent
 
 WRITINGS = {
     "mary": ["consciousness", "physics"],
+    "quotations": ["natural language"],
     "teaching": ["education"],
     "time": ["physics"],
 }

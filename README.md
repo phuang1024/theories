@@ -12,6 +12,10 @@ None of this is rigorous. These are simply thoughts that have came into my mind.
 
 - [Teaching](./src/teaching.txt)
 
+### Natural language
+
+- [Quotations](./src/quotations.txt)
+
 ### Physics
 
 - [Mary](./src/mary.txt)
