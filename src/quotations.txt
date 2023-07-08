@@ -57,9 +57,9 @@ We need to end both the quote and our statement about the quote.
 Corresponding examples of C++ lambda functions can also help:
 
 C++ (expr, statement)
-1 + [](){return 1 + 2;}
+1 + [](){return 1 + 2;}()
 c++ (statement, statement)
-int x = 1 + [](){return 1 + 2;};
+int x = 1 + [](){return 1 + 2;}();
 
 Notice how we also have two semicolons in the last example.
 
