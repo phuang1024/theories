@@ -10,6 +10,7 @@ ROOT = Path(__file__).absolute().parent.parent
 WRITINGS = {
     "mary": ["consciousness", "physics"],
     "quotations": ["natural language"],
+    "rci": ["lectures", "physics"],
     "teaching": ["education"],
     "time": ["physics"],
 }
@@ -19,7 +20,10 @@ TEMPLATE = """
 
 Theories from an armchair philosopher.
 
-None of this is rigorous. These are simply thoughts that have came into my mind.
+None of this is rigorous or necessarily original.
+These are simply thoughts that have came into my mind.
+
+Credit is given where it is due.
 """.strip() + "\n\n"
 
 

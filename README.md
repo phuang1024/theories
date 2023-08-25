@@ -2,7 +2,10 @@
 
 Theories from an armchair philosopher.
 
-None of this is rigorous. These are simply thoughts that have came into my mind.
+None of this is rigorous or necessarily original.
+These are simply thoughts that have came into my mind.
+
+Credit is given where it is due.
 
 ### Consciousness
 
@@ -12,6 +15,10 @@ None of this is rigorous. These are simply thoughts that have came into my mind.
 
 - [Teaching](./src/teaching.txt)
 
+### Lectures
+
+- [Rci](./src/rci.txt)
+
 ### Natural language
 
 - [Quotations](./src/quotations.txt)
@@ -19,5 +26,6 @@ None of this is rigorous. These are simply thoughts that have came into my mind.
 ### Physics
 
 - [Mary](./src/mary.txt)
+- [Rci](./src/rci.txt)
 - [Time](./src/time.txt)
 

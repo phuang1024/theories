@@ -1,0 +1,78 @@
+August 24, 2023
+Patrick Huang
+
+RCI: Resistors, capacitors, and inductors.
+These are three electrical components commonly introduced to beginners in
+electrical physics.
+
+Many are confused with the "essence" of these components; i.e. an intuition. In
+this article, I will attempt to intuitively explain these components by
+analyzing what their units are.
+
+Consider resistors. They "resist" the electricity. But what does that mean? Are
+there laws within the bounds of the resistor that limit electron immigration?
+
+Consider Ohm's law: V = IR. Using this, we can reverse engineer the units of
+resistance: V/A, or Volts/Amps. We usually abbreviate this as Ohms.
+
+Consider Volts/Amps. When a unit is a division, we can interpret it as some
+quantity of the top unit, when we have one of the bottom unit.
+
+Consider what this means for the resistor. For each Amp of current, we get a
+Volt. What does that mean? Well, voltage is analogous to force in the world of
+electricity. So for each Amp of current --- a rate of flow of charges --- the
+resistor gives us some force.
+
+This is how the resistor "resists" electricity. Much like pushing water through
+a narrow pipe, the harder we push, the more force the resistor pushes back with.
+Actually, it's the faster we push, not the harder. Remember, we get one Volt for
+each Amp of current.
+
+The higher the resistance, the more force we get for each Amp. So, for a fixed
+voltage, a smaller current will create the same backwards force in a higher
+resistor. This is why higher resistors are associated with lower currents.
+
+Resistors are like narrow water pipes; it is the velocity of water (current)
+that decides how much force we get back.
+
+Consider capacitors. The equation we use is q = CV. Again, we reverse engineer
+the units as q/V, or Coulombs/Volts. We usually abbreviate this as Farads.
+
+For our current discussion, it's easier to take the reciprocal of this, or V/q
+--- Volts/Coulomb. Let's call this the "stiffness" for now.
+
+Much like how the resistor pushes back when we run current, the capacitor pushes
+back when we simply pass some charge through it.
+
+This is why capacitors "charge up" when connected to a fixed supply. As much
+charge flows through as needed to create the backwards force equal to the
+supply.
+
+The more Volts we get for each Coulomb, the less charge we need to create the
+same force. Using our current terminology, the capacitor is stiffer.
+
+As for the reciprocal, it means more stiffness is less capacitance. So while
+higher resistance means more backwards force, higher capacitance means less
+backwards force, under the same conditions.
+
+Capacitors are like rubber diaphrams in pipes; it is the quantity of water
+(charge) that decides how much force we get back.
+
+Consider inductors. We model them with V = L(dI/dt). We reverse engineer the
+units as V/(A/s), or Volts/(Amps/second). We usually abbreviate this as "Henry".
+
+Like how both resistors and capacitors provide a backwards force under certain
+circumstances, inductors do likewise when we do "Amps/second". What does that
+mean?
+
+Amps/second is a strange unit. Our first instinct may be to interpret it as
+current, but we are mistaking it for Coulombs/second. Rather, Amps/second is
+how quickly the current is changing.
+
+So inductors provide a backwards force when we attempt to change the current
+through it. Higher inductance means more backwards force for the same attempt to
+change the current.
+
+Inductors are like heavy water wheels driven by the flow through a pipe; it is
+how hard we try to change the rate of flow (the rate of change of current) that
+decides how much force we get back.
