@@ -9,28 +9,28 @@ Credit is given where it is due.
 
 ### Consciousness
 
-- [Mary](./src/mary.txt)
+- [Mary.txt](./src/mary.txt)
 
 ### Education
 
-- [Teaching](./src/teaching.txt)
+- [Teaching.txt](./src/teaching.txt)
 
 ### Humans
 
-- [Fourier_me.txt](./src/fourier_me.txt.txt)
-- [Quotations](./src/quotations.txt)
+- [Fourier_me.txt](./src/fourier_me.txt)
+- [Quotations.txt](./src/quotations.txt)
 
 ### Lectures
 
-- [Rci](./src/rci.txt)
+- [Rci.txt](./src/rci.txt)
 
 ### Natural language
 
-- [Quotations](./src/quotations.txt)
+- [Quotations.txt](./src/quotations.txt)
 
 ### Physics
 
-- [Mary](./src/mary.txt)
-- [Rci](./src/rci.txt)
-- [Time](./src/time.txt)
+- [Mary.txt](./src/mary.txt)
+- [Rci.txt](./src/rci.txt)
+- [Time.txt](./src/time.txt)
 

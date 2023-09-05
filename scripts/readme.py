@@ -9,11 +9,11 @@ ROOT = Path(__file__).absolute().parent.parent
 
 WRITINGS = {
     "fourier_me.txt": ["humans"],
-    "mary": ["consciousness", "physics"],
-    "quotations": ["humans", "natural language"],
-    "rci": ["lectures", "physics"],
-    "teaching": ["education"],
-    "time": ["physics"],
+    "mary.txt": ["consciousness", "physics"],
+    "quotations.txt": ["humans", "natural language"],
+    "rci.txt": ["lectures", "physics"],
+    "teaching.txt": ["education"],
+    "time.txt": ["physics"],
 }
 
 TEMPLATE = """
@@ -44,7 +44,7 @@ def main():
 
         text += f"### {c.capitalize()}\n\n"
         for w in writings:
-            text += f"- [{w.capitalize()}](./src/{w}.txt)\n"
+            text += f"- [{w.capitalize()}](./src/{w})\n"
         text += "\n"
 
     (ROOT / "README.md").write_text(text)
