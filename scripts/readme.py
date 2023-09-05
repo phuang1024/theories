@@ -8,8 +8,9 @@ from pathlib import Path
 ROOT = Path(__file__).absolute().parent.parent
 
 WRITINGS = {
+    "fourier_me.txt": ["humans"],
     "mary": ["consciousness", "physics"],
-    "quotations": ["natural language"],
+    "quotations": ["humans", "natural language"],
     "rci": ["lectures", "physics"],
     "teaching": ["education"],
     "time": ["physics"],

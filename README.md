@@ -15,6 +15,11 @@ Credit is given where it is due.
 
 - [Teaching](./src/teaching.txt)
 
+### Humans
+
+- [Fourier_me.txt](./src/fourier_me.txt.txt)
+- [Quotations](./src/quotations.txt)
+
 ### Lectures
 
 - [Rci](./src/rci.txt)

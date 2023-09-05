@@ -1,0 +1,43 @@
+September 4, 2023
+Patrick Huang
+
+Let's take the fourier transform of me.
+
+What is a fourier transform?
+It splits any function into a sum of sinusoidal components.
+Each sinusoidal component has a frequency and an amplitude.
+
+This means, for a finite sum of sinusoids, the resulting function is periodic;
+it repeats itself after a certain amount of time.
+
+Each sinusoid has a frequency; it's a pure oscillation with a specific "speed"
+of oscillation.
+
+If there are enough significant sinusoids with low frequencies --- those that
+oscillate slowly ---, then it will take a long time for the function to repeat.
+So if you consider a short segment of the function, it might not look repeating
+at all.
+
+Let's consider, abstractly, what a fourier transform of me is.
+
+Repeating might not be a good thing; I don't want to keep making the same
+mistakes; repeating is the absence of progress.
+
+You might say that repeating a good habit is a good thing; for example reading
+every day. But that repeated action changes me every time; it does carry
+progress.
+
+The fourier transform analogy perhaps suggests the depressing message that we
+are all bound to repeat ourselves.
+
+But we don't exist forever. In the amount of time we have, we can make progress.
+Much like considering the function over a short segment of time, we should focus
+on the progress we can make in the time we have.
+
+So in order to make progress, the most prominent frequencies need to be
+comparable to our life span.
+
+---
+
+This is a funny analogy between math and life. I call this "Fourier Me", which
+shows how bad I am at naming things.
