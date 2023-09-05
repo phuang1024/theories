@@ -1,0 +1,71 @@
+September 4, 2023
+Patrick Huang
+
+Relative Functionalism is my view on the meaning of the universe. It is an
+extension of functionalism, originally developed for explaining consciousness,
+or "philosophy of mind".
+
+Consider functionalism. I explain philosophy of mind in more detail in
+`mary.txt`.
+In short, functionalism states that consciousness is a physical process. In
+addition, you could model it with some function. For example, this neuron
+influences those, and so on.
+You can replicate the exact conscious experience by replicating the function. No
+matter what your replication is --- legos, mechanical gears, or a computer ---
+as long as it performs the same function, it is the same conscious experience.
+
+Wikipedia lists a few counterarguments, most of which are quite dubious to me. I
+will counter a few of them here, and in the process, develop my idea of relative
+functionalism.
+
+The china brain argument: Consider if every person in China acts like a neuron,
+communicating, for example, with walkie talkies (Wikipedia). Does this system
+have a conscious experience?
+Functionalism says yes. It performs the same functions as a "real" conscious
+experience.
+Opposers argue that this is "patently absurd" (Ned Block). It is quite
+interesting to note that the opposer's argument wholly rests on a subjective
+declaration of "patently absurd".
+
+Imagine you are on the moon, chatting through a messaging application. Your
+partner could either be a "real" mind (i.e. a human) or the china brain system.
+If the china brain system does work as a mind, then you would not be able to
+differentiate between the two.
+
+This is the turing test: If you cannot tell a difference, you have no basis to
+say that the two things are different.
+
+On the other hand, if you were on Earth observing the two things, you would be
+able to tell a difference. One is a human, while the other is a country of
+people talking in walkie talkies.
+
+Notice how we defined how we are observing the two things. This is where the
+relative in relative functionalism comes from. In order to say that two things
+are or are not functionally identical, you must define in what way; from what
+point of view.
+
+Another example is the chinese room argument. Imagine a person "speaks" chinese
+only by following a set of syntactic rules. Opposers argue that although the
+spoken chinese is gramatically and semantically correct, the person does not
+"understand" chinese, whatever that means.
+
+Again, this is a subjective declaration. You could have multiple points of view.
+If you interact through a chat application, you have no way of telling a
+difference. So you have no basis to say that the person cannot understand
+chinese.
+
+If you interact in person, you might be able to tell a difference, depending on
+how fluent the other is. If they are looking up words and rules in a dictionary,
+you could tell that they are not fluent. But if they memorized all the rules and
+execute them perfectly, again, you have no basis to say that they do not
+understand chinese.
+
+It doesn't matter if they "really understand" it in their heart, whatever that
+means. You can't find evidence of the difference; you have no argument.
+
+This is similar to duck typing in programming. "If it looks like a duck, swims
+like a duck, and quacks like a duck, then it probably is a duck." (Wikipedia).
+
+In short, it doesn't matter what the actual data type is. If it performs the
+appropriate functions (i.e. methods), then good; you can use it as if it were
+a "real" (i.e. what you assume it to be) thing.

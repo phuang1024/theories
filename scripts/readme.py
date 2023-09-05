@@ -12,6 +12,7 @@ WRITINGS = {
     "mary.txt": ["consciousness", "physics"],
     "quotations.txt": ["humans", "natural language"],
     "rci.txt": ["lectures", "physics"],
+    "relative_functionalism.txt": ["consciousness"],
     "teaching.txt": ["education"],
     "time.txt": ["physics"],
 }
@@ -44,7 +45,8 @@ def main():
 
         text += f"### {c.capitalize()}\n\n"
         for w in writings:
-            text += f"- [{w.capitalize()}](./src/{w})\n"
+            title = w.rsplit(".", 1)[0].replace("_", " ").capitalize()
+            text += f"- [{title}](./src/{w})\n"
         text += "\n"
 
     (ROOT / "README.md").write_text(text)
