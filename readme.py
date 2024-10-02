@@ -5,10 +5,11 @@ Creates category headings and links to writings.
 
 from pathlib import Path
 
-ROOT = Path(__file__).absolute().parent.parent
+ROOT = Path(__file__).absolute().parent
 
 WRITINGS = {
     "fourier_me.txt": ["humans"],
+    "free_will.txt": ["humans"],
     "mary.txt": ["consciousness", "physics"],
     "quotations.txt": ["humans", "natural language"],
     "rci.txt": ["lectures", "physics"],

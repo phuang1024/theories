@@ -19,6 +19,7 @@ Credit is given where it is due.
 ### Humans
 
 - [Fourier me](./src/fourier_me.txt)
+- [Free will](./src/free_will.txt)
 - [Quotations](./src/quotations.txt)
 
 ### Lectures

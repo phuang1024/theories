@@ -1,0 +1,65 @@
+October 1, 2024
+Patrick Huang
+
+Written for philosophy class.
+
+I find trouble with D'Holbach's notion of a single free will that either exists
+or does not; otherwise, I mostly agree with his argument.
+
+D'Holbach argues about achieving free will by "breaking" physics (and how we
+cannot do that). He claims that free will is acting according to one's own will;
+and because our will is controlled wholly by physics, we don't have free will.
+
+This is a sound argument, and being a functionalist, I agree. We are bound by
+physics, and do not have free will in this sense.
+
+However, I think it is worthwhile to analyze different definitions of free will,
+as this determinism model is not very helpful beyond saying "we don't have free
+will". Different interpretations of the premise of "nature controlling our will"
+will yield different results.
+
+Under determinism, I believe we still do have free will in a sense. Humans are
+more chaotic than most other entities. Chaos means a small change in the initial
+conditions will result in large changes in the outcome.
+
+
+I use information theory and probability to state this: Given a state (e.g. me
+sitting in a room), the probability distribution of what I could do next (e.g.
+drink water, type more sentences, get food) is very spread out --- there is a
+large amount of things I could do with relatively high probability. In
+information theory, this is called a high entropy distribution.
+
+It is paradoxical to say that there is determinism and a probability
+distribution; after all, only one outcome happens, so where does the
+probability come from? My answer is that when we define a state, some parts of
+it are not strictly specified, and instead are allowed to vary; e.g. the
+velocity of every single air molecule. Those variables aren't important to the
+consideration of the state. So, the probability distribution is obtained with an
+average over all configurations of these unimportant things, and the resulting
+outcome we measure. So, our behavior is high entropy because we are chaotic and
+do "random" stuff when air molecules change.
+
+Our high entropy behavior is a contrast to most things in nature. If you throw a
+rock up, regardless of how the air molecules might change, the rock will fall
+down. But small differences in air molecules might cause different neurons to
+fire in your brain, drastically changing your behavior.
+
+So, our "will" does overcome nature because nature can't control it; our free
+will derives from being chaotic and unpredictable (while of course feeling
+grounded in our decisions when we make them; but this is a psychological
+argument).
+
+Another aspect of free will is social free will. To what extent does your
+position in society determine how you act?
+
+Social mechanisms such as social reproduction compel people to behave in
+mechanistic ways. For the most part, we are bound within our culture's norms,
+and thus follow the mechanisms.
+
+In this way, we don't have free will socially because nature (the society) does
+control our movements.
+
+Social free will is like climate, while chaotic free will is like weather.
+While the weather can change chaotically like our small, transient actions, our
+long term behavior is like a constant climate.
+
